@@ -1,4 +1,4 @@
-😏 🍬 🌿 🛌 ⚓️ 🍙 🏂 🏜 🕝 💒 👶 🏬 🎲 🐊 📈 ❎
+🏨 🌙 🗿 🏏 💘 🎰 🏈 🗑 🆙 🚁 😝 🤐 👣 ⛩ 🐪 ▶️ 🕋 🐸 ↗️ 💾 🚥 🛡 😄 🍸 🌽 🕔 9️⃣ 💛 ✌️ 🏔 🚌 ☣
 # Python with Hamish
 
 A simple introduction to Python and programming.
