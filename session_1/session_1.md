@@ -3,9 +3,9 @@
 
 ## Setup
 
-On Mac: Use Terminal.
-On Linux: Use Bash.
-On Windows: Use [`git bash`](https://gitforwindows.org/), [Anaconda Prompt](https://docs.anaconda.com/anaconda/user-guide/getting-started/), or another emulator.
+On Mac: Use Terminal.  
+On Linux: Use Bash.  
+On Windows: Use [`git bash`](https://gitforwindows.org/), [Anaconda Prompt](https://docs.anaconda.com/anaconda/user-guide/getting-started/), or another emulator.  
 
 Check that python is installed:
 
