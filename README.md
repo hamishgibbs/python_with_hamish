@@ -9,5 +9,4 @@ Program a lot.
 Google your problems.  
 Get comfortable with error messages.  
 Code is the enemy.  
-Code fights back.  
 Good code is a hierarchy of abstractions.  
