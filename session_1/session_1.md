@@ -19,8 +19,8 @@ Play around with the terminal:
 `cat`: Print a file to the terminal.  
 `cp`: Copy a file to another place.  
 `mv`: Move a file to another place.  
-`mkdir`: Create a directory.
-`touch`: Create a blank file.
+`mkdir`: Create a directory.  
+`touch`: Create a blank file.  
 `rm`: Delete a file.  
 `rm -r`: Delete a directory and its contents.  
 
