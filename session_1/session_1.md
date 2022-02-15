@@ -3,21 +3,21 @@
 
 ## Requirements
 
-A text file: `whatever_name.py`.
-A Python installation: `python`.
+A text file: `whatever_name.py`.  
+A Python installation: `python`.  
 
 ## Setup
 
 Play around with the terminal:
 
-`cd`: go somewhere.
-`cd ~`: go home.
-`cd ../`: go one level up from where you are.
-`cat`: Print a file to the terminal.
-`cp`: Copy a file to another place.
-`mv`: Move a file to another place.
-`rm`: Delete a file.
-`rm -r`: Delete a directory and its contents.
+`cd`: go somewhere.  
+`cd ~`: go home.  
+`cd ../`: go one level up from where you are.  
+`cat`: Print a file to the terminal.  
+`cp`: Copy a file to another place.  
+`mv`: Move a file to another place.  
+`rm`: Delete a file.  
+`rm -r`: Delete a directory and its contents.  
 
 Check that python is installed:
 
