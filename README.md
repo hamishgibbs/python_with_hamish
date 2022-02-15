@@ -7,8 +7,7 @@ A simple introduction to Python and programming.
 
 Program a lot.  
 Google your problems.  
-Get comfortable with error messages – even really bad ones.  
+Get comfortable with error messages.  
 Code is the enemy.  
 Code fights back.  
-Try to forget as much as possible.  
 Good code is a hierarchy of abstractions.  
