@@ -93,10 +93,13 @@ def factorial(x):
 ```
 
 2. Compare the code in `update_mobiliy.py` and `refactored_update_mobiliy.py`.
+  * Is `refactored_update_mobiliy.py` easier to follow?
+  * Is `refactored_update_mobiliy.py` harder to follow?
+  * How easy would it be to update each file in case the inputs change?
+  * What is the best way to divide responsibility between functions?
+  * How will `refactored_update_mobiliy.py` be impacted if we change the implementation of one function?
 
-3. Consider how easy it would be to update each file in case the inputs change.
-
-4. Consider how you could refactor one of your own workflows to make it more clear.
+3. Consider how you could refactor one of your own workflows to make it more clear.
 
 ## Tips
 
