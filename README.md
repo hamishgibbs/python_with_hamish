@@ -6,8 +6,8 @@ A simple introduction to Python and programming.
 # The Basics
 
 Program a lot.  
-Google your problems.  
 Get comfortable with error messages.  
+Google your problems.  
 Code is the enemy<sup>1</sup>.  
 Good code is a hierarchy of abstractions.  
 
