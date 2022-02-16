@@ -1,7 +1,7 @@
 🏨 🌙 🗿 🏏 💘 🎰 🏈 🗑 🆙 🚁 😝 🤐 👣 ⛩ 🐪 ▶️ 🕋 🐸 ↗️ 💾 🚥 🛡 😄 🍸 🌽 🕔 9️⃣ 💛 ✌️ 🏔 🚌 ☣
 # Python with Hamish
 
-A simple introduction to Python and general programming.
+A simple introduction to Python and programming.
 
 # The Basics
 
