@@ -80,9 +80,9 @@ if __name__ == '__main__':
   main()
 ```
 
-## Additional
+## Extras
 
-1. For some mind-bending, play around with a recursive function:
+1. For some mind-bending - play around with a recursive function:
 
 ```{python}
 def factorial(x):
@@ -92,18 +92,11 @@ def factorial(x):
     return (x * factorial(x-1))
 ```
 
-2. Refactor a common workflow into functions.
+2. Compare the code in `update_mobiliy.py` and `refactored_update_mobiliy.py`.
 
-```{shell}
-Example:
-1. Read some CSV data.
-2. Clean up some columns.
-3. Filter the data for certain rows.
-3. Calculate summary statistics.
-4. Save the summary to another CSV file.
-```
+3. Consider how easy it would be to update each file in case the inputs change.
 
-3. Extend your workflow to reuse code for multiple inputs.
+4. Consider how you could refactor one of your own workflows to make it more clear.
 
 ## Tips
 
@@ -111,8 +104,6 @@ Think of the command line as a file explorer.
 
 The goal of modular code is to remember what a section of code does 6 months from now.
 
-The second answers on Stack Overflow are the correct ones (this took me a while).
-
 There are no right answers, just better and worse. You will have to find what coding practice works for you.
 
-There are very many programming languages, tools, frameworks, packages, helpers, package managers, editors, containers, deployers, bits & bobs. Don't worry too much - the basics of programming are always the same.
+There are very many programming languages, tools, frameworks, packages, helpers, package managers, editors, containers, automators, bits & bobs. Don't worry too much - the basics of programming are always the same.
