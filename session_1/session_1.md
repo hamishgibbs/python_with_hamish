@@ -28,6 +28,7 @@ Create a new directory somewhere:
 
 ```{shell}
 mkdir /path/to/this/directory/session_1
+cd /path/to/this/directory/session_1
 ```
 
 Create a python file:
@@ -81,7 +82,17 @@ if __name__ == '__main__':
 
 ## Additional
 
-1. Refactor a common workflow into functions.
+1. For some mind-bending, play around with a recursive function:
+
+```{python}
+def factorial(x):
+  if x == 1:
+    return 1
+  else:
+    return (x * factorial(x-1))
+```
+
+2. Refactor a common workflow into functions.
 
 ```{shell}
 Example:
@@ -92,7 +103,7 @@ Example:
 4. Save the summary to another CSV file.
 ```
 
-2. Refactor your workflow to reuse your code for multiple inputs.
+3. Extend your workflow to reuse code for multiple inputs.
 
 ## Tips
 
