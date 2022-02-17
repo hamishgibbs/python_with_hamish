@@ -109,6 +109,6 @@ Think of the command line as a file explorer.
 
 The goal of modular code is to remember what a section of code does 6 months from now.
 
-There are no right answers, just better and worse. You will have to find the coding practice that works for you.
+There are no right answers, just better and worse. You will have to find coding practices that work for you.
 
 There are very many programming languages, tools, frameworks, packages, helpers, package managers, editors, containers, automators, bits & bobs. Don't worry too much - the basics of programming are always the same.
