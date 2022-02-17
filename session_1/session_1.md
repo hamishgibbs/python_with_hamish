@@ -63,7 +63,7 @@ def add_three(x):
 
 5. Write a function that calls a function that calls a function.
 
-6. Call your function, assign the result to a variable, pass this variable to another function.
+6. Call a function, assign the result to a variable, pass this variable to another function.
 
 6. Separate functions into multiple files.
 
